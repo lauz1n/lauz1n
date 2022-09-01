@@ -3,7 +3,7 @@
 [![PersonalWeb](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://samuelvdev.netlify.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelvm-ventura/)
 
-## I'am a 24 years old Frontend Developer based in Brazil. Currently looking for my frist opportunity as a Junior Developer!
+## I'am a 24 years old Frontend Developer based in Brazil.<br/> Currently looking for my frist opportunity as a Junior Developer!
 
 ### I'm in love with technology and games since I was a little boy and I have finally made the decision to pursue my career as a Frontend Developer. I'm a great listener and friend and love to learn new things!
 ### Feel free to ask me anything!
