@@ -5,6 +5,9 @@
 
 ## I'am a 24 years old Frontend Developer based in Brazil.<br/> Currently looking for my frist opportunity as a Junior Developer!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauz1n)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### I'm in love with technology and games since I was a little boy and I have finally made the decision to pursue my career as a Frontend Developer. I'm a great listener and friend and love to learn new things!
 ### Feel free to ask me anything!
 
