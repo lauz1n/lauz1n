@@ -3,7 +3,7 @@
 [![PersonalWeb](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://samuelvdev.netlify.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelvm-ventura/)
 
-## I'am a 24 years old Frontend Developer based in Brazil.<br/> Currently undergraduating B.Sc in Computer Science and looking for my first opportunity as a Frontend Developer.
+## I'am a 24 years old Frontend Developer based in Brazil.<br/> Currently undergraduating B.Sc in Computer Science and looking for my first opportunity as a developer.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauz1n&show_icons=true&theme=radical)
 
