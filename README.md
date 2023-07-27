@@ -4,7 +4,7 @@ Samuel Ventura
 
 I'am a 25 years old Fullstack Developer based in Brazil.<br/> Currently undergraduating B.Sc in Computer Science.
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=lauz1n&show_icons=true)
 
 Techs I use
 
