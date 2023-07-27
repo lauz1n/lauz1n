@@ -4,7 +4,7 @@ Samuel Ventura
 
 I'am a 25 years old Fullstack Developer based in Brazil.<br/> Currently undergraduating B.Sc in Computer Science.
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lauz1n&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
 
 Techs I use
 
